@@ -31,6 +31,11 @@ h2 {
   margin-bottom: 1em;
 }
 
+.emphasize {
+  color: purple;
+  font-weight: bold;
+}
+
 .main-nav ul {
   padding: 0;
   margin-bottom: 4em;
@@ -87,6 +92,10 @@ h2 {
   display: inline-block;
   padding: 0 .5em;
   margin-bottom: 3em;
+}
+
+.skills ul {
+  padding: 0;
 }
 
 .skills li {
